@@ -1,5 +1,5 @@
 ## dnb
-###### information
+###### Overview.
 Bruteforce Discord Nitro codes, with the convenience of a Discord Bot.
-###### how to use
+###### How to use.
 TBW.
